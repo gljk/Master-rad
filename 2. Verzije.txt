@@ -1,0 +1,11 @@
+Verzija R okruženja
+
+R version 3.3.2 (2016-10-31)
+
+Verzije korišcenih paketa
+
+twitteR_1.1.9
+igraph_1.0.1
+ggplot2_2.2.0
+scales_0.4.1
+HiveR_0.2.55
